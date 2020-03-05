@@ -1,2 +1,2 @@
-# jogo-da-velha-react
+# jogo da velha react
 Projeto acadêmico
